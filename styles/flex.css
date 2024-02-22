@@ -1,0 +1,112 @@
+.hee-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  width: 700px;
+}
+
+.image-container {
+  width: 150px;
+  margin-right: 20px;
+}
+
+.hee-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.hee-info {
+  font-size: 20px;
+  font-weight: bold;
+  flex: 1;
+  margin-right: 55px;
+}
+
+.hee-name {
+  margin-bottom: 7px;
+  margin-top: 0;
+}
+
+.hee-title, .hee-prof {
+  color: rgb(96 96 96);
+  margin: 7px 0;
+}
+
+.hee-follow {
+}
+
+.hee-bttn {
+  background-color: rgb(18, 94, 288);
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.elf-background {
+  background-color: lightpink;
+  height: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.elf-container {
+  display: flex;
+  height: 60px;
+  width: 1300px;
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(79, 5, 148, 0.842);
+}
+
+.home-container {
+  color: white;
+  font-size: 24px;
+  width: 70px;
+  margin-left: 25px;
+}
+
+.search-container {
+  flex: 1;
+  max-width: 700px;
+  margin-left: 50px;
+  margin-right: 60px;
+  
+}
+
+
+.search {
+  flex: 1;
+  width: 100%;
+  height: 30px;
+  border-radius: 30px;
+  border: 1px solid transparent;
+}
+
+::placeholder {
+padding-left: 15px;
+}
+
+.download-bttn {
+  padding: 8px 15px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: rgba(79, 5, 148, 0.842);
+  color: white;
+}
+
+.download-container {
+  margin-right: 10px;
+}
+
+
+

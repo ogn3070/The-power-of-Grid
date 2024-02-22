@@ -1,0 +1,99 @@
+.twopx {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.seven-fivepx {
+  background-color: lightpink;
+  width: 75px;
+}
+
+.two-items {
+  display: flex;
+  flex-direction: row;
+}
+
+.fifty-px {
+  background-color: lightblue;
+  width: 50px;
+}
+
+.flex-space {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.sevfiv-px {
+  background-color: lightblue;
+  width: 75px;
+}
+
+.three-items {
+  display: flex;
+  flex-direction: row;
+}
+
+.four-items{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.cee1 {
+  background-color: black;
+  color: white;
+}
+.cee2 {
+  background-color: whitesmoke;
+  color: black;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.cee3 {
+  background-color: green;
+  color: white;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.cee4 {
+  background-color: yellow;
+  color: blue;
+}
+
+.dee {
+  border: 1px solid gray;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dee1 {
+  background-color: green;
+}
+
+.dee2 {
+  background-color: green;
+}
+
+.bttn14 {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 3px 12px ;
+}
+
+.home {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.group1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}

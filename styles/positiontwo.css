@@ -1,0 +1,63 @@
+.container {
+  line-height: 40px;
+  height: 1000px;
+}
+
+.fourteen {
+  background-color: pink;
+  position: fixed;
+  width: 90px;
+  top: 0;
+  left: 0;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-four {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.image-one {
+  margin-bottom: 8px;
+  margin-top: 15px;
+}
+
+.image-two {
+  margin-bottom: 8px;
+}
+
+.info-wrap {
+  background-color: black;
+  position: fixed;
+  left: 90px;
+  top: 0;
+  height: 280px;
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+.info {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.sam,.plus {
+  font-family: Arial;
+  font-size: 16px;
+  color: gray;
+}
+
+.plus {
+  font-size: 26px;
+}
+
+.position-xh-container {
+  background-color: blue;
+}

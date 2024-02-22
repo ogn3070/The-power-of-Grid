@@ -1,0 +1,110 @@
+.wrap {
+  padding-bottom: 2000px;
+  padding-top: 200px;
+}
+
+.side-main {
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}
+
+.sidebar {
+  background-color: lightgreen;
+  position: fixed;
+  top: 70px;
+  right: 0;
+  height: 500px;
+  width: 200px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 70px;
+  height: 500px;
+  left: 0;
+  right: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-container {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.modal {
+  font-size: 22px;
+  font-family: arial;
+  font-weight: bold;
+  line-height: 35px;
+}
+
+.text {
+  font-size: 14px;
+  font-family: arial;
+  line-height: 45px;
+}
+
+.navbar {
+  background-color: white;
+  height: 100px;
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.myimage {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin-right: 10px;
+  margin-left: 50px;
+}
+
+.text-box {
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.text-image {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.add {
+  color: white;
+  background-color: rgba(3, 25, 224, 0.884);
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  margin-right: 10px;
+}
+
+.message {
+  color: black;
+  font-weight: bold;
+  background-color: lightgrey;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 10px;
+  margin-right: 40px;
+}
+
+.add-message {
+  display: flex;
+}
+
